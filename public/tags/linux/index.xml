@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Linux on Roger J. Bos, CFA</title>
+    <title>Linux on ETF Ranking System</title>
     <link>/tags/linux/</link>
-    <description>Recent content in Linux on Roger J. Bos, CFA</description>
+    <description>Recent content in Linux on ETF Ranking System</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 08 Apr 2019 00:00:00 +0000</lastBuildDate>
@@ -18,7 +18,7 @@
       
       <guid>/linux/</guid>
       <description>I am a big fan of linux. I enjoy ssh-ing into servers and using the command line, but since I don&amp;rsquo;t necessarily use linux every day, I sometimes forget some of the commands, so I keep this reference for myself.
-Linux Commands  df shows the amount of free space on your drive. free shows the amount of free memory on your machine. groups shows a list of all the groups in use.</description>
+Linux Commands Users and Groups  getent passwd shows a list of all the users on the server. sudo passwd &amp;lt;username&amp;gt; allows a sudoer to change the password of a user.</description>
     </item>
     
   </channel>
