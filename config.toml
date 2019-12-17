@@ -1,4 +1,4 @@
-baseurl = "https://ranks.rogerjbos.com/rankings/dt.html"
+baseurl = "https://ranks.rogerjbos.com"
 title = "ETF Ranking System"
 languageCode = "en-us"
 theme = "ghostwriter"
@@ -6,10 +6,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 copyright = "2019 Roger J. Bos, CFA"
 
 [Params]
-    mainSections = [""]
-    intro = false
-    headline = "test headline"
-    description = "ETF Ranking System"
+    mainSections = ["rankings/dt.html"]
+    intro = true
+    headline = ""
+    description = ""
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.12.0"
