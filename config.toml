@@ -1,4 +1,4 @@
-baseurl = "https://ranks.rogerjbos.com"
+baseurl = "https://ranks.rogerjbos.com/rankings/dt.html"
 title = "ETF Ranking System"
 languageCode = "en-us"
 theme = "ghostwriter"
