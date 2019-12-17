@@ -30,5 +30,5 @@ copyright = "2019 Roger J. Bos, CFA"
     
 [[menu.main]]
     name = "ETF Rankings"
-    url = "/rankings/index.html"
+    url = "/rankings/"
     weight = 2
