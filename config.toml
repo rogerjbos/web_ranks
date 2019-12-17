@@ -1,13 +1,12 @@
 baseurl = "https://ranks.rogerjbos.com"
-languageCode = "en-us"
 title = "ETF Ranking System"
-#theme = "ghostwriter"
-googleAnalytics = ""
-disqusShortname = ""
+languageCode = "en-us"
+theme = "ghostwriter"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+copyright = "2019 Roger J. Bos, CFA"
 
-[[params]]
-    mainSections  ["rankings/index.html"]
+[Params]
+    mainSections = ["rankings"]
     intro = true
     headline = "test headline"
     description = "ETF Ranking System"
@@ -21,12 +20,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
     MathJaxVersion = "2.7.5"
 
-    [params.logo]
-    url = "logo.png"
-    width = 50
-    height = 50
-    alt = "Logo"
-    
 [permalinks]
     post = ""
 
