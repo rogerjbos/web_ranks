@@ -1,4 +1,4 @@
-baseurl = "https://ranks.rogerjbos.com"
+baseurl = "https://ranks.rogerjbos.com/rankings/"
 languageCode = "en-us"
 title = "ETF Ranking System"
 #theme = "ghostwriter"
@@ -6,19 +6,10 @@ googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
-[permalinks]
-    post = ""
-
-[[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 1
-[[menu.main]]
-    name = "ETF Rankings"
-    url = "/rankings/index.html"
-    weight = 2
-
-[params]
+[[params]]
+    mainSections  ["rankings/index.html"]
+    intro = true
+    headline = "test headline"
     description = "ETF Ranking System"
 
     # options for highlight.js (version, additional languages, and theme)
@@ -35,3 +26,16 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     width = 50
     height = 50
     alt = "Logo"
+    
+[permalinks]
+    post = ""
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+    
+[[menu.main]]
+    name = "ETF Rankings"
+    url = "/rankings/index.html"
+    weight = 2
