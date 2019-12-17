@@ -3,31 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/rankings/rankings/adra/</loc>
+    <loc>/rankings/adra/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/rankings/rankings/adrd/</loc>
+    <loc>/rankings/adrd/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/rankings/rankings/adre/</loc>
+    <loc>/rankings/adre/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/rankings/rankings/adru/</loc>
+    <loc>/rankings/adru/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/rankings/about/</loc>
+    <loc>/about/</loc>
   </url>
   
   <url>
-    <loc>/rankings/categories/</loc>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/</loc>
   </url>
   
   <url>
@@ -35,11 +39,7 @@
   </url>
   
   <url>
-    <loc>/rankings/rankings/</loc>
-  </url>
-  
-  <url>
-    <loc>/rankings/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
