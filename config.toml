@@ -1,4 +1,4 @@
-baseurl = "https://rogerjbos.com/"
+baseurl = "https://ranks.rogerjbos.com/rankings/"
 languageCode = "en-us"
 title = "ETF Ranking System"
 #theme = "ghostwriter"
@@ -7,24 +7,16 @@ disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [permalinks]
-    post = "/:year/:month/:day/:slug/"
+    post = "/:slug/"
 
 [[menu.main]]
     name = "About"
     url = "/about/"
     weight = 1
 [[menu.main]]
-    name = "Blog"
-    url = "/"
+    name = "ETF Rankings"
+    url = "/rankings/"
     weight = 2
-[[menu.main]]
-    name = "Investing"
-    url = "/investing/"
-    weight = 3
-[[menu.main]]
-    name = "Linux"
-    url = "/linux/"
-    weight = 4
 
 [params]
     description = "ETF Ranking System"
@@ -43,4 +35,3 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     width = 50
     height = 50
     alt = "Logo"
-
