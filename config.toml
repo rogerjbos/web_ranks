@@ -1,15 +1,13 @@
 baseurl = "https://ranks.rogerjbos.com"
-title = "ETF Ranking System"
+title = "ETF Rankings"
 languageCode = "en-us"
 theme = "ghostwriter"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 copyright = "2019 Roger J. Bos, CFA"
 
 [Params]
-    mainSections = ["rankings/dt.html"]
-    intro = true
-    headline = ""
-    description = ""
+    mainSections = ["post"]
+    intro = false
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.12.0"
@@ -21,7 +19,7 @@ copyright = "2019 Roger J. Bos, CFA"
     MathJaxVersion = "2.7.5"
 
 [permalinks]
-    post = "post"
+    post = ""
 
 [[menu.main]]
     name = "About"
@@ -29,6 +27,6 @@ copyright = "2019 Roger J. Bos, CFA"
     weight = 1
     
 [[menu.main]]
-    name = "ETF Rankings"
+    name = "ETF Rankings Index"
     url = "/rankings/dt.html"
     weight = 2
