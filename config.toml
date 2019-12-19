@@ -7,7 +7,7 @@ copyright = "2019 Roger J. Bos, CFA"
 
 [Params]
     mainSections = ["post"]
-    intro = false
+    intro = true
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.12.0"
