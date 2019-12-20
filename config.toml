@@ -6,7 +6,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 copyright = "2019 Roger J. Bos, CFA"
 
 [Params]
-    mainSections = ["post"]
+    mainSections = ["Rankings"]
     intro = true
 
     # options for highlight.js (version, additional languages, and theme)
