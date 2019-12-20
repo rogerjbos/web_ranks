@@ -6,7 +6,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 copyright = "2019 Roger J. Bos, CFA"
 
 [Params]
-    mainSections = [""]
+    mainSections = ["post"]
     intro = true
 
     # options for highlight.js (version, additional languages, and theme)
@@ -17,9 +17,6 @@ copyright = "2019 Roger J. Bos, CFA"
 
     MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
     MathJaxVersion = "2.7.5"
-
-[permalinks]
-    post = ""
 
 [[menu.main]]
     name = "About"
