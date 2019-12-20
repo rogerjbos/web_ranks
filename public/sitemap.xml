@@ -3,20 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>https://ranks.rogerjbos.com/post/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://ranks.rogerjbos.com/rankings/adra/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://ranks.rogerjbos.com/rankings/adrd/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://ranks.rogerjbos.com/rankings/adre/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ranks.rogerjbos.com/rankings/adru/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ranks.rogerjbos.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ranks.rogerjbos.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ranks.rogerjbos.com/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ranks.rogerjbos.com/rankings/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ranks.rogerjbos.com/tags/</loc>
   </url>
   
 </urlset>

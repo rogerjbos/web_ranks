@@ -19,7 +19,7 @@ copyright = "2019 Roger J. Bos, CFA"
     MathJaxVersion = "2.7.5"
 
 [permalinks]
-    post = "post"
+    post = ""
 
 [[menu.main]]
     name = "About"
