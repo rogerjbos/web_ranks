@@ -1,11 +1,13 @@
 ---
-title: "About"
+title: "About ETF Rankings"
 ---
 
-I am a quant finance professional working in NYC.  I have spent my entire career working in the equity markets.  My main programming languages are R and SQL.  
+This site ranks 150+ ETF on a monthly basis based on the following criteria:
 
-I have a deep love of learning and enjoy figuring out how things work, be it the stock market, plumbing systems, electrical systems, or cars.  I enjoy using my Rasberry Pi for home automation projects.
+* Fundamental valuation metrics based on the aggregated holdings
+* Total return momentum of the ETF over different time frames
+* ARIMA forecasting of the price series
+* Volatility
+* Technical indicators
 
-You can reach me at roger dot bos at gmail dot com.
-
-This entire website was built in R using the [**blogdown**](https://github.com/rstudio/blogdown) package. Thanks Yihui Xie!
+A rank of 20 is best and 1 is the lowest rank. 
