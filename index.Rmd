@@ -1,3 +1,5 @@
 ---
 site: blogdown:::blogdown_site
 ---
+
+<meta http-equiv = "refresh" content = "2; url = https://ranks.rogerjbos.com/rankings"/>
