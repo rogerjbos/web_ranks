@@ -1,4 +1,5 @@
 baseurl = "https://ranks.rogerjbos.com/"
+title = "ETF Rankings"
 languageCode = "en-us"
 theme = "ghostwriter"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -24,5 +25,5 @@ copyright = "2019 Roger J. Bos, CFA"
     
 [[menu.main]]
     name = "ETF Index"
-    url = "/rankings/"
+    url = "/rankings/index.html"
     weight = 2
