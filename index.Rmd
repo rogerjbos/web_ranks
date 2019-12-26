@@ -2,4 +2,4 @@
 site: blogdown:::blogdown_site
 ---
 
-<meta http-equiv="Refresh" content="0; url=https://ranks.rogerjbos.com/rankings" />
+<meta http-equiv="Refresh" content="0; url=https://ranks.rogerjbos.com/rankings/" />
