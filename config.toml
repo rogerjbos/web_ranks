@@ -1,4 +1,4 @@
-baseurl = "https://ranks.rogerjbos.com"
+baseurl = "https://ranks.rogerjbos.com/rankings/"
 languageCode = "en-us"
 theme = "ghostwriter"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
