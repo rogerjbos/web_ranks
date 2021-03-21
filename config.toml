@@ -1,5 +1,5 @@
 baseurl = "https://ranks.rogerjbos.com/"
-title = "ETF Rankings"
+title = "Sagepoint ETF Rankings"
 languageCode = "en-us"
 theme = "ghostwriter"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
