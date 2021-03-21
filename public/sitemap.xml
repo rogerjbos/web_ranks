@@ -3,19 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ranks.rogerjbos.com/about/</loc>
+    <loc>https://ranks.rogerjbos.com/categories/</loc>
+    <lastmod>2019-12-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ranks.rogerjbos.com/categories/</loc>
+    <loc>https://ranks.rogerjbos.com/tags/etf/</loc>
+    <lastmod>2019-12-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ranks.rogerjbos.com/categories/etf/</loc>
+    <lastmod>2019-12-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ranks.rogerjbos.com/post/</loc>
+    <lastmod>2019-12-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ranks.rogerjbos.com/tags/rankings/</loc>
+    <lastmod>2019-12-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ranks.rogerjbos.com/categories/rankings/</loc>
+    <lastmod>2019-12-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ranks.rogerjbos.com/</loc>
+    <lastmod>2019-12-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ranks.rogerjbos.com/post/test/</loc>
+    <lastmod>2019-12-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ranks.rogerjbos.com/tags/</loc>
+    <lastmod>2019-12-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ranks.rogerjbos.com/about/</loc>
   </url>
   
 </urlset>
